@@ -1,6 +1,6 @@
 [
   {
-    "id": "logo.primary",
+    "id": "logo.atlascotton",
     "displayName": "Atlas Cotton Logo",
     "keywords": 
 [
@@ -14,7 +14,7 @@
     "description": "Official Atlas Cotton logo. Use without modification."
   },
   {
-    "id": "button.primary",
+    "id": "button.primaryaction",
     "displayName": "Primary Action Button",
     "keywords": 
 [
