@@ -2,14 +2,28 @@
   {
     "id": "logo.primary",
     "displayName": "Atlas Cotton Logo",
-    "keywords": ["logo", "atlas", "branding"],
+    "keywords": 
+[
+  "logo",
+  "atlas logo",
+  "brand logo",
+  "atlas cotton logo"
+]
+,
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/atlas-cotton-logo-primary.png",
     "description": "Official Atlas Cotton logo. Use without modification."
   },
   {
     "id": "button.primary",
     "displayName": "Primary Action Button",
-    "keywords": ["button", "cta", "primary"],
+    "keywords": 
+[
+  "primary action button",
+  "action button",
+  "primary button",
+  "cta"
+]
+,
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Primary_ActionButton.png",
     "description": "Primary action button used for key calls to action."
   }
