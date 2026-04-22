@@ -11,6 +11,19 @@
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Primary_ActionButton.png",
     "description": "Primary action button used for key calls to action."
   },
+
+  {
+    "id": "button.secondaryaction",
+    "displayName": "Secondary Action Button",
+    "keywords": [
+      "secondary action button",
+      "secondary button",
+      "secondary action"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Secondary_ActionButton.png",
+    "description": "Secondary action button used for non-primary or alternative actions in the UI."
+  },
+
   {
     "id": "logo.atlascotton",
     "displayName": "Atlas Cotton Logo",
