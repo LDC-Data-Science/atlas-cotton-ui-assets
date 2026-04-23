@@ -4,8 +4,8 @@
     "displayName": "Primary Action Button",
     "keywords": [
       "primary action button",
-      "action button",
       "primary button",
+      "primary action",
       "cta"
     ],
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Primary_ActionButton.png",
@@ -30,7 +30,7 @@
     "keywords": [
       "logo",
       "atlas logo",
-      "brand logo",
+      "cotton logo",
       "atlas cotton logo"
     ],
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/atlas-cotton-logo-primary.png",
