@@ -11,6 +11,19 @@
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Primary_ActionButton.png",
     "description": "Primary Action Button used for key calls to action."
   },
+  
+{
+  "id": "button.primaryaction.hd",
+  "displayName": "Primary Action Button (HD)",
+  "keywords": [
+    "primary action button",
+    "primary button",
+    "primary action",
+    "cta"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Primary_ActionButton-HD.png",
+  "description": "High-definition Primary Action Button used for key calls to action."
+},
 
   {
     "id": "button.secondaryaction",
@@ -23,6 +36,30 @@
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Secondary_ActionButton.png",
     "description": "Secondary Action Button used for non-primary or alternative actions in the UI."
   },
+  
+{
+  "id": "button.secondaryaction.hd",
+  "displayName": "Secondary Action Button (HD)",
+  "keywords": [
+    "secondary action button",
+    "secondary button",
+    "secondary action"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Secondary_ActionButton-HD.png",
+  "description": "High-definition Secondary Action Button used for non-primary or alternative actions in the UI."
+},
+  
+{
+  "id": "button.tertiaryaction.hd",
+  "displayName": "Tertiary Action Button (HD)",
+  "keywords": [
+    "tertiary action button",
+    "tertiary button",
+    "tertiary action"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Tertiary_ActionButton-HD.png",
+  "description": "High-definition Tertiary Action Button used for low-emphasis or supporting actions in the UI."
+},
 
   {
     "id": "logo.atlascotton",
