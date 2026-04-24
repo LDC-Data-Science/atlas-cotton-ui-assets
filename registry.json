@@ -51,7 +51,7 @@
     "secondary button hd",
     "secondary hd button",
     "secondary action hd",
-    "secondary hd",
+    "secondary hd"
   ],
   "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Secondary_ActionButton-HD.png",
   "description": "High Density Secondary Action Button used for non-primary or alternative actions in the UI."
@@ -67,7 +67,7 @@
     "tertiary button hd",
     "tertiary hd button",
     "tertiary action hd",
-    "tertiary hd",
+    "tertiary hd"
   ],
   "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Tertiary_ActionButton-HD.png",
   "description": "High Density Tertiary Action Button used for low-emphasis or supporting actions in the UI."
