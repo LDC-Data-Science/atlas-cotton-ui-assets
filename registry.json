@@ -14,15 +14,19 @@
   
 {
   "id": "button.primaryaction.hd",
-  "displayName": "Primary Action Button (HD)",
+  "displayName": "Primary Action Button HD (High Density)",
   "keywords": [
-    "primary action button",
-    "primary button",
-    "primary action",
+    "primary action button high density",
+    "high density primary action button",
+    "primary action button hd",
+    "primary button hd",
+    "primary hd button",
+    "primary action hd",
+    "primary hd",
     "cta"
   ],
   "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Primary_ActionButton-HD.png",
-  "description": "High-definition Primary Action Button used for key calls to action."
+  "description": "High Density Primary Action Button used for key calls to action."
 },
 
   {
@@ -39,26 +43,34 @@
   
 {
   "id": "button.secondaryaction.hd",
-  "displayName": "Secondary Action Button (HD)",
+  "displayName": "Secondary Action Button HD (High Density)",
   "keywords": [
-    "secondary action button",
-    "secondary button",
-    "secondary action"
+    "secondary action button high density",
+    "high density secondary action button",
+    "secondary action button hd",
+    "secondary button hd",
+    "secondary hd button",
+    "secondary action hd",
+    "secondary hd",
   ],
   "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Secondary_ActionButton-HD.png",
-  "description": "High-definition Secondary Action Button used for non-primary or alternative actions in the UI."
+  "description": "High Density Secondary Action Button used for non-primary or alternative actions in the UI."
 },
   
 {
   "id": "button.tertiaryaction.hd",
-  "displayName": "Tertiary Action Button (HD)",
+  "displayName": "Tertiary Action Button HD (High Density)",
   "keywords": [
-    "tertiary action button",
-    "tertiary button",
-    "tertiary action"
+    "tertiary action button high density",
+    "high density tertiary action button",
+    "tertiary action button hd",
+    "tertiary button hd",
+    "tertiary hd button",
+    "tertiary action hd",
+    "tertiary hd",
   ],
   "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Tertiary_ActionButton-HD.png",
-  "description": "High-definition Tertiary Action Button used for low-emphasis or supporting actions in the UI."
+  "description": "High Density Tertiary Action Button used for low-emphasis or supporting actions in the UI."
 },
 
   {
