@@ -9,7 +9,7 @@
       "cta"
     ],
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Primary_ActionButton.png",
-    "description": "Primary action button used for key calls to action."
+    "description": "Primary Action Button used for key calls to action."
   },
 
   {
@@ -21,12 +21,12 @@
       "secondary action"
     ],
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Secondary_ActionButton.png",
-    "description": "Secondary action button used for non-primary or alternative actions in the UI."
+    "description": "Secondary Action Button used for non-primary or alternative actions in the UI."
   },
 
   {
     "id": "logo.atlascotton",
-    "displayName": "Atlas Cotton Logo",
+    "displayName": "LDC Atlas Cotton Logo",
     "keywords": [
       "logo",
       "atlas logo",
@@ -34,6 +34,6 @@
       "atlas cotton logo"
     ],
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/AtlasCotton_Logo.png",
-    "description": "Official Atlas Cotton logo. Use without modification."
+    "description": "Official LDC Atlas Cotton logo. Use without modification."
   }
 ]
