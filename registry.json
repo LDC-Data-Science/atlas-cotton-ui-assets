@@ -23,7 +23,7 @@
     "primary hd button",
     "primary action hd",
     "primary hd",
-    "cta"
+    "cta hd"
   ],
   "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Primary_ActionButton-HD.png",
   "description": "High Density Primary Action Button used for key calls to action."
