@@ -57,17 +57,22 @@
   "description": "High Density Secondary Action Button used for non-primary or alternative actions in the UI."
 },
   
+
 {
   "id": "button.tertiaryaction.hd",
   "displayName": "Tertiary Action Button HD (High Density)",
   "keywords": [
-    "tertiary action button high density",
-    "high density tertiary action button",
+    "tertiary action button",
+    "tertiary button",
+    "tertiary action",
+
     "tertiary action button hd",
     "tertiary button hd",
-    "tertiary hd button",
     "tertiary action hd",
-    "tertiary hd"
+    "tertiary hd",
+
+    "tertiary action button high density",
+    "high density tertiary action button"
   ],
   "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Tertiary_ActionButton-HD.png",
   "description": "High Density Tertiary Action Button used for low-emphasis or supporting actions in the UI."
