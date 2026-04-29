@@ -9,7 +9,7 @@
       "cta"
     ],
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Primary_ActionButton.png",
-    "description": "Primary Action Button used for key calls to action."
+    "description": "Used for key calls to action in the UI."
   },
   
 {
@@ -26,7 +26,7 @@
     "cta hd"
   ],
   "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Primary_ActionButton-HD.png",
-  "description": "High Density Primary Action Button used for key calls to action."
+  "description": "Used for key calls to action in a high density area in the UI."
 },
 
   {
@@ -38,7 +38,7 @@
       "secondary action"
     ],
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Secondary_ActionButton.png",
-    "description": "Secondary Action Button used for non-primary or alternative actions in the UI."
+    "description": "Used for non-primary or alternative actions in the UI."
   },
   
 {
@@ -54,7 +54,7 @@
     "secondary hd"
   ],
   "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Secondary_ActionButton-HD.png",
-  "description": "High Density Secondary Action Button used for non-primary or alternative actions in the UI."
+  "description": "Used for non-primary or alternative actions in a high density area in the UI."
 },
   
 
@@ -75,7 +75,7 @@
     "high density tertiary action button"
   ],
   "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Tertiary_ActionButton-HD.png",
-  "description": "High Density Tertiary Action Button used for low-emphasis or supporting actions in the UI."
+  "description": "Used for low-emphasis or supporting actions in a high density area in the UI."
 },
 
   {
@@ -88,6 +88,6 @@
       "atlas cotton logo"
     ],
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/AtlasCotton_Logo.png",
-    "description": "Official LDC Atlas Cotton logo. Use without modification."
+    "description": "Use without modification, and on a light or white background."
   }
 ]
