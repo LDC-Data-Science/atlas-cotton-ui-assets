@@ -89,5 +89,22 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/AtlasCotton_Logo.png",
     "description": "Use without modification, and on a light or white background."
-  }
+  },
+  
+{
+  "id": "layout.general.atlascotton",
+  "displayName": "Atlas Cotton (Atlas V2) – General Layout",
+  "keywords": [
+    "general layout",
+    "atlas cotton layout",
+    "atlas layout",
+    "atlas cotton general layout",
+    "page layout",
+    "full page layout",
+    "atlas v2 layout",
+    "general atlas layout"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/GeneralLayout_AtlasCotton(AtlasV2).png",
+  "description": "Full-page reference layout illustrating the overall structure and composition of the Atlas Cotton UI (Atlas V2)."
+}
 ]
