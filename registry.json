@@ -56,6 +56,19 @@
   "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Secondary_ActionButton-HD.png",
   "description": "Used for non-primary or alternative actions in a high density area in the UI."
 },
+
+  
+  {
+  "id": "button.tertiaryaction",
+  "displayName": "Tertiary Action Button",
+  "keywords": [
+    "tertiary action button",
+    "tertiary button",
+    "tertiary action",
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Tertiary_ActionButton.png",
+  "description": "Used for low-emphasis or supporting actions in the UI."
+},
   
 
 {
