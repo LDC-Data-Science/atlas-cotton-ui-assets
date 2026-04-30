@@ -69,6 +69,31 @@
   "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Tertiary_ActionButton.png",
   "description": "Used for low-emphasis or supporting actions in the UI."
 },
+
+  
+{
+  "id": "button.tertiaryaction.white",
+  "displayName": "Tertiary Action Button (White/Reversed-out)",
+  "keywords": [
+    "tertiary action button white",
+    "tertiary action button reversed out",
+    "tertiary action button reversed",
+    "white tertiary action button",
+    "reversed out tertiary action button",
+    "reversed tertiary action button",
+    "tertiary button white",
+    "tertiary button reversed out",
+    "tertiary button reversed",
+    "tertiary white button",
+    "tertiary reversed out button",
+    "tertiary reversed button",
+    "white tertiary button",
+    "reversed out tertiary button",
+    "reversed tertiary button"
+  ],
+  "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Tertiary_ActionButton-White.png",
+  "description": "Used for low-emphasis or supporting actions on dark or high-contrast backgrounds."
+},
   
 
 {
