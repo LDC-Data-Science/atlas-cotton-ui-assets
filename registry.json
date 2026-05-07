@@ -8,7 +8,7 @@
       "primary action",
       "cta"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Primary_ActionButton.png",
+    "imageUrl": "https://ldcom365.sharepoint.com/sites/AtlasCotton611/Shared%20Documents/Copilot_Display_Assets/Buttons/Primary_ActionButton.png",
     "description": "Used for key calls to action in the UI."
   },
   
@@ -29,7 +29,7 @@
     "hd primary",
     "cta hd"
   ],
-  "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Primary_ActionButton-HD.png",
+  "imageUrl": "https://ldcom365.sharepoint.com/sites/AtlasCotton611/Shared%20Documents/Copilot_Display_Assets/Buttons/Primary_ActionButton-HD.png",
   "description": "Used for key calls to action in a high density area in the UI."
 },
 
@@ -41,7 +41,7 @@
       "secondary button",
       "secondary action"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Secondary_ActionButton.png",
+    "imageUrl": "https://ldcom365.sharepoint.com/sites/AtlasCotton611/Shared%20Documents/Copilot_Display_Assets/Buttons/Secondary_ActionButton.png",
     "description": "Used for non-primary or alternative actions in the UI."
   },
   
@@ -61,7 +61,7 @@
     "seondary hd",
     "hd secondary"
   ],
-  "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Secondary_ActionButton-HD.png",
+  "imageUrl": "https://ldcom365.sharepoint.com/sites/AtlasCotton611/Shared%20Documents/Copilot_Display_Assets/Buttons/Secondary_ActionButton-HD.png",
   "description": "Used for non-primary or alternative actions in a high density area in the UI."
 },
 
@@ -74,7 +74,7 @@
     "tertiary button",
     "tertiary action"
   ],
-  "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Tertiary_ActionButton.png",
+  "imageUrl": "https://ldcom365.sharepoint.com/sites/AtlasCotton611/Shared%20Documents/Copilot_Display_Assets/Buttons/Tertiary_ActionButton.png",
   "description": "Used for low-emphasis or supporting actions in the UI."
 },
 
@@ -99,7 +99,7 @@
     "reversed out tertiary button",
     "reversed tertiary button"
   ],
-  "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Tertiary_ActionButton-White.png",
+  "imageUrl": "https://ldcom365.sharepoint.com/sites/AtlasCotton611/Shared%20Documents/Copilot_Display_Assets/Buttons/Tertiary_ActionButton-White.png",
   "description": "Used for low-emphasis or supporting actions on dark or high-contrast backgrounds."
 },
   
@@ -120,7 +120,7 @@
     "tertiary action button high density",
     "high density tertiary action button"
   ],
-  "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/Tertiary_ActionButton-HD.png",
+  "imageUrl": "https://ldcom365.sharepoint.com/sites/AtlasCotton611/Shared%20Documents/Copilot_Display_Assets/Buttons/Tertiary_ActionButton-HD.png",
   "description": "Used for low-emphasis or supporting actions in a high density area in the UI."
 },
 
@@ -151,7 +151,7 @@
     "general atlas layout",
     "edit screen layout"
   ],
-  "imageUrl": "https://raw.githubusercontent.com/LDC-Data-Science/atlas-cotton-ui-assets/refs/heads/main/GeneralLayout_AtlasCotton(AtlasV2).png",
+  "imageUrl": "https://ldcom365.sharepoint.com/sites/AtlasCotton611/Shared%20Documents/Copilot_Display_Assets/Page%20Layouts/GeneralLayout_AtlasCotton(AtlasV2).png",
   "description": "Full-page reference layout illustrating the overall structure and composition of the Atlas Cotton (Atlas V2) UI."
 }
 ]
